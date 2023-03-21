@@ -1,0 +1,2 @@
+.stop-watch__minutes,.stop-watch__seconds{width:10px;position:absolute;left:50%;transform-origin:bottom;border-radius:5px}.stop-watch{position:relative;margin:10% auto}.stop-watch__minutes{height:155px;background-color:red;top:70px;animation:stop_watch_keyframe 3600s linear 1s infinite}.stop-watch__seconds{height:225px;background-color:#00f;animation:stop_watch_keyframe 60s linear 1s infinite}@keyframes stop_watch_keyframe{to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.b0b4714e.css.map */
